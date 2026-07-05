@@ -1,0 +1,15 @@
+SageX
+Copyright 2026 web3utxo (Mayank Roy) — https://web3utxos.com
+
+This product is a fork of Sage Wallet.
+  Sage Wallet — Copyright Rigid Network — https://github.com/rigidnetwork/sage
+  Licensed under the Apache License, Version 2.0.
+
+The upstream Apache-2.0 LICENSE is preserved verbatim in this distribution.
+SageX's substantive changes relative to upstream are recorded in MODIFICATIONS.md,
+as required by Apache-2.0 §4(b).
+
+SageX is a research preview for use on the Chia testnet11 network. Distributed
+binaries are unsigned. This is not investment advice and carries no warranty; see
+the Apache-2.0 LICENSE for the full disclaimer of warranty and limitation of
+liability.
