@@ -48,4 +48,4 @@ farming tab.
 Every artifact is covered by `SHA256SUMS` in its directory. `LICENSE` (Apache-2.0) and
 `MODIFICATIONS.md` travel with the release. Gate script: `gates/verify_artifacts.sh`.
 
-**Not yet published.** Public distribution and the final `v0.1.0` tag are Mayank-gated.
+**Not yet published.** Public distribution and the final `v0.1.0` tag are gated.
