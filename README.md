@@ -1,8 +1,7 @@
 # SageX — research preview (v0.1.0-rc1)
 
 SageX is a **research-preview fork of [Sage Wallet](https://github.com/rigidnetwork/sage)**
-(Apache-2.0) that surfaces **NalandaX** soulbound NamIDs and labels soulbound NFTs.
-Part of [web3utxos.com](https://web3utxos.com). See [`MODIFICATIONS.md`](./MODIFICATIONS.md)
+(Apache-2.0) See [`MODIFICATIONS.md`](./MODIFICATIONS.md)
 for exactly what differs from upstream.
 
 > **Research preview — use on testnet11.** Binaries are **unsigned**; your OS will show an
